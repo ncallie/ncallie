@@ -18,3 +18,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
 </p>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/stats?cursusId=21&coalitionId=101" alt="ncallie's 42 stats" /></a>
+
