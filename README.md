@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Roman</h1>
-<h3 align="center">A passionate Java developer </h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Hi%20there,%20I%27m%20Roman%20!%20%F0%9F%91%8B&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
+<h3 align="center">🌱 I am a student developer studying in **42Kazan**.</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="vuejs" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
