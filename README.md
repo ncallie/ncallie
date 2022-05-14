@@ -18,4 +18,24 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
 </p>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/stats?cursusId=21&coalitionId=101" alt="ncallie's 42 stats" /></a>
+<h3 align="left">School 42 projects:</h3>
+<ul>
+  <li>Libft <img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2365641" width="80"/> </li>
+  <li>ft_printf <img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2379841" width="80"/> </li>
+  <li>Born2beroot <img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2379839" width="80"/> </li>
+  <li>get_next_line <img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2379840" width="80"/> </li>
+  <li>push_swap <img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2396227" width="80"/> </li>
+  <li>minitalk <img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2406417" width="80"/> </li>
+  <li>so_long <img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2413753" width="80"/> </li>
+  <li>Philosophers <img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2419844" width="80"/> </li>
+  <li>minishell <img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2419845" width="80"/> </li>
+  <li>NetPractice <img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2525120" width="80"/> </li>
+  <li>CPP Module <img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2529287" width="80"/> </li>
+  <li>cub3d <img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2549672" width="80"/> </li>
+  <li>ft_containers <img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2577311" width="80"/> </li>
+  <li>Inception <img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2563433" width="80"/> </li>
+  <li>webserv <img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2578209" width="80"/> </li>
+  <li>ft_irc <img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2578208" width="80"/> </li>
+  <li>Piscine Java <img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2562582" width="80"/> </li>
+</ul>
 
