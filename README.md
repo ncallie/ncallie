@@ -18,10 +18,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
 </p>
 
+<p aligen="center">
+    <a href="https://javarush.ru/users/2894054"><img src="https://javarush.ru/assets/images/site/logo/sidebar-jr-logo.svg" alt="ncallie's 42 stats" />
+  <img src="https://img.shields.io/badge/32-level-orange" width="55" alt="vuejs"/> <img/> </a>
+  </p>
+  
+  <p aligen="center">
+    <a href="https://www.codewars.com/users/ncallie"><img src="https://www.codewars.com/users/ncallie/badges/small" alt="ncallie's 42 stats" />
+  </p>
 <p align="center">
   <a href="https://github.com/ncallie"><img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/stats?cursusId=21&coalitionId=101" alt="ncallie's 42 stats" /></a>
-  <a href="https://javarush.ru/users/2894054"><img src="https://javarush.ru/assets/images/site/logo/sidebar-jr-logo.svg" alt="ncallie's 42 stats" />
-  <img src="https://img.shields.io/badge/32-level-orange" width="55" alt="vuejs"/>
 </p>
 <h3 align="left">School 42 projects:</h3>
 <ul>
