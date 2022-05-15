@@ -33,4 +33,5 @@
 <h2 align="left"<ul>
   <li><a href="https://github.com/ncallie/42Projects">School 42 projects</li>
   <li><a href="https://github.com/ncallie/Pet-projects-Java">Pet-projects(Java)</li>
+  <li><a href="https://github.com/ncallie/Other">Other</li>
 </ul></h2>
