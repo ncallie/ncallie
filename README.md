@@ -29,7 +29,7 @@
 <p align="center">
   <a href="https://github.com/ncallie"><img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/stats?cursusId=21&coalitionId=101" alt="ncallie's 42 stats" /></a>
 </p>
-<h3 align="left">Projects:</h3>
+# Projects:
 <ul>
   <li><a href="https://github.com/ncallie/42Projects">School 42 projects</li>
   <li><a href="https://github.com/ncallie/Pet-projects-Java">Pet-projects(Java)</li>
